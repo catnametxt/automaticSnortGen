@@ -7,7 +7,7 @@
 
 
 from doctest import OutputChecker
-from socket import PACKET_FASTROUTE
+# from socket import PACKET_FASTROUTE
 import argparse
 import os
 import sys
